@@ -1,0 +1,6 @@
+{
+  "name": "MelodyAi",
+  "description": "AI Music Generation using Deep Learning - LSTM-based neural network pipeline for learning MIDI note patterns and generating original music sequences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
