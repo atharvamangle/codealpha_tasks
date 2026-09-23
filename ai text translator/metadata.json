@@ -1,0 +1,7 @@
+{
+  "name": "LinguaBridge AI – Smart Language Translator",
+  "description": "A modern, responsive AI-powered language translation web application with smart auto-detection, pronunciation guide, voice text-to-speech, and translation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
